@@ -1,0 +1,9 @@
+altair
+jupyter
+matplotlib
+nbclient
+nbformat
+numpy
+pandas
+seaborn
+streamlit
